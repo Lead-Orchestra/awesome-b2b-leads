@@ -64,6 +64,8 @@ High-performance, scalable frameworks for scraping B2B data:
   Visual scraper for non-developers; supports JS-rendered sites.
 - **ParseHub** – https://parsehub.com  
   Good for static and semi-dynamic websites.
+- **Scrupp** – https://scrupp.com  
+  Chrome extension for one-click LinkedIn Sales Navigator lead extraction (verified emails, phones, enriched company data) with CSV + Google Sheets export.
 
 ---
 
