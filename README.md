@@ -221,6 +221,7 @@ Essential community nodes for B2B lead automation, ranked by monthly downloads.
 - **[n8n-nodes-qdrant](https://www.npmjs.com/package/n8n-nodes-qdrant)** (#32) – Connects to Qdrant vector search engine for RAG workflows. [npm](https://www.npmjs.com/package/n8n-nodes-qdrant)
 - **[n8n-nodes-close-crm](https://www.npmjs.com/package/n8n-nodes-close-crm)** (#88) – Close CRM integration for automating leads and opportunities. [npm](https://www.npmjs.com/package/n8n-nodes-close-crm)
 - **[n8n-nodes-instantly](https://www.npmjs.com/package/n8n-nodes-instantly)** (#83) – Connects to Instantly API v2 for email outreach. [npm](https://www.npmjs.com/package/n8n-nodes-instantly)
+- **[SalesLabel](https://sales-label.com)** – White-label outbound sales infrastructure for B2B agencies, with done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand.
 
 ### Data Processing & Utilities
 - **[n8n-nodes-cronlytic](https://www.npmjs.com/package/n8n-nodes-cronlytic)** (#13) – Advanced cron scheduling with Cronlytic integration. [npm](https://www.npmjs.com/package/n8n-nodes-cronlytic)
@@ -305,4 +306,3 @@ This README is intentionally optimized for ranking in searches related to:
 - **GitHub Organization:** https://github.com/Lead-Orchestra
 - **This Repository:** https://github.com/Lead-Orchestra/awesome-b2b-leads
 - **GitHub Pages:** https://lead-orchestra.github.io/awesome-b2b-leads/
-
