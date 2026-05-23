@@ -64,6 +64,8 @@ High-performance, scalable frameworks for scraping B2B data:
   Visual scraper for non-developers; supports JS-rendered sites.
 - **ParseHub** – https://parsehub.com  
   Good for static and semi-dynamic websites.
+- **DataLens** – https://datalens.uk
+  AI web data agent for browser-based scraping, data cleaning, analysis, and CSV/Excel/JSON export.
 
 ---
 
