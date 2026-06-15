@@ -99,6 +99,8 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   50+ enrichment sources in one API (or UI). Great for workflows.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
+- **Xquik** - https://docs.xquik.com
+  X data API for profile, post, follower, and search exports with REST, webhooks, and MCP.
 
 ---
 
@@ -305,4 +307,3 @@ This README is intentionally optimized for ranking in searches related to:
 - **GitHub Organization:** https://github.com/Lead-Orchestra
 - **This Repository:** https://github.com/Lead-Orchestra/awesome-b2b-leads
 - **GitHub Pages:** https://lead-orchestra.github.io/awesome-b2b-leads/
-
