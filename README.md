@@ -162,6 +162,7 @@ Ready-to-use n8n workflow templates for B2B lead automation, sourced from [aweso
 - **AI Data Extraction with Dynamic Prompts and Airtable** – AI-driven data extraction with Airtable integration. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/OpenAI_and_LLMs/AI%20Data%20Extraction%20with%20Dynamic%20Prompts%20and%20Airtable.json)
 - **AI-Powered Email Automation for Business: Summarize & Respond with RAG** – Email automation with summarization and response capabilities. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/OpenAI_and_LLMs/AI-Powered%20Email%20Automation%20for%20Business_%20Summarize%20&%20Respond%20with%20RAG.json)
 - **AI agent that can scrape webpages** – AI agent for web scraping tasks. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/OpenAI_and_LLMs/AI%20agent%20that%20can%20scrape%20webpages.json)
+- **Build a Lead Generation Agent** – Python agent that uses web search, page scraping, and deep research to find and score B2B leads (fit_score 1–10) into a CRM-ready CSV. [Guide](https://superhighway.walls.sh/guides/lead-generation-agent)
 
 ### Airtable Integration
 - **AI Agent to chat with Airtable and analyze data** – Creates an AI agent that can chat with Airtable, analyze data, and perform queries based on user requests. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/Airtable/AI%20Agent%20to%20chat%20with%20Airtable%20and%20analyze%20data.json)
