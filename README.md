@@ -62,6 +62,8 @@ High-performance, scalable frameworks for scraping B2B data:
 ### **No-Code Scraping Tools**
 - **Octoparse** – https://octoparse.com  
   Visual scraper for non-developers; supports JS-rendered sites.
+- **OutSend** – https://outsend.xyz  
+  All-in-one B2B prospecting & lead-gen: scrape Google Maps & directories, enrich emails/phones, verify contacts, export CSV.
 - **ParseHub** – https://parsehub.com  
   Good for static and semi-dynamic websites.
 
