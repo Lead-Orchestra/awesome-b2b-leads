@@ -141,6 +141,7 @@ Ready-to-use n8n workflow templates for B2B lead automation, sourced from [aweso
 - **Analyze & Sort Suspicious Email Contents with ChatGPT** – Analyzes suspicious emails using ChatGPT, classifies them, and can generate screenshots for review. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/Gmail_and_Email_Automation/Analyze%20&%20Sort%20Suspicious%20Email%20Contents%20with%20ChatGPT.json)
 - **A Very Simple "Human in the Loop" Email Response System Using AI and IMAP** – Implements a workflow for human-in-the-loop email responses. Uses IMAP to fetch emails, summarizes content with AI, and drafts professional replies for review. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/Gmail_and_Email_Automation/A%20Very%20Simple%20_Human%20in%20the%20Loop_%20Email%20Response%20System%20Using%20AI%20and%20IMAP.json)
 - **Auto Categorise Outlook Emails with AI** – Automatically categorizes Outlook emails using AI models. Moves messages to folders and assigns categories based on content. [Template](https://github.com/enescingoz/awesome-n8n-templates/blob/main/Gmail_and_Email_Automation/Auto%20Categorise%20Outlook%20Emails%20with%20AI.json)
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## 📊 **Data Management & Enrichment**
 
@@ -305,4 +306,3 @@ This README is intentionally optimized for ranking in searches related to:
 - **GitHub Organization:** https://github.com/Lead-Orchestra
 - **This Repository:** https://github.com/Lead-Orchestra/awesome-b2b-leads
 - **GitHub Pages:** https://lead-orchestra.github.io/awesome-b2b-leads/
-
