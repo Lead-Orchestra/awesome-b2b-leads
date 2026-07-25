@@ -33,6 +33,7 @@ This GitHub repository supports the project by offering the **best-in-class cura
 - [Web Scraping Frameworks](#web-scraping-frameworks)
 - [Headless Browser & Automation Tools](#headless-browser--automation-tools)
 - [B2B Lead Enrichment APIs](#b2b-lead-enrichment-apis)
+- [AI Sales Prospecting Platforms](#ai-sales-prospecting-platforms)
 - [Email Verification Services](#email-verification-services)
 - [Proxy & Anti-Bot Providers](#proxy--anti-bot-providers)
 - [n8n Workflows & Automation Nodes](#n8n-workflows--automation-nodes)
@@ -100,6 +101,15 @@ Turn raw scraped data into **sales-ready enriched profiles**.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
 
+---
+
+# 🤖 **AI Sales Prospecting Platforms**
+
+Use AI to discover, research, and enrich B2B companies and decision-makers.
+
+- **Vibe Prospecting** - https://www.vibeprospecting.ai
+  AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
+  
 ---
 
 # 📫 **Email Verification Services**
