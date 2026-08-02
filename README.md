@@ -36,6 +36,7 @@ This GitHub repository supports the project by offering the **best-in-class cura
 - [Email Verification Services](#email-verification-services)
 - [Proxy & Anti-Bot Providers](#proxy--anti-bot-providers)
 - [n8n Workflows & Automation Nodes](#n8n-workflows--automation-nodes)
+- [Open Datasets & Research](#open-datasets--research)
 - [Example B2B Lead Pipeline](#example-b2b-lead-pipeline)
 - [Contributing](#contributing)
 - [License](#license)
@@ -240,6 +241,15 @@ Essential community nodes for B2B lead automation, ranked by monthly downloads.
 - **Official n8n Documentation** – https://docs.n8n.io  
 - **n8n Community Workflows** – https://n8n.io/workflows
 - **Installing Community Nodes** – https://docs.n8n.io/integrations/community-nodes/installation/  
+
+---
+
+# 📊 **Open Datasets & Research**
+
+Open data for benchmarking outbound performance and grounding outreach strategy in real numbers.
+
+- **Cold Email Italy Observatory** – https://github.com/arnold222a/osservatorio-cold-email-italia  
+  Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0.
 
 ---
 
