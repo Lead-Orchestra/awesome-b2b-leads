@@ -99,6 +99,8 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   50+ enrichment sources in one API (or UI). Great for workflows.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
+- **Funding Signals** – https://fundingsignals.net  
+  Turns SEC Form D filings into scored, enriched B2B leads for companies that just raised funding.
 
 ---
 
