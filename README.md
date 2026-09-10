@@ -125,7 +125,9 @@ Necessary for large-scale scraping without blocks.
   Solves CAPTCHAs, rotates proxies automatically.
 - **ScrapingBee** – https://scrapingbee.com  
   API for JS rendering + proxies + browser automation.
-- **Zyte Smart Proxy Manager** – https://zyte.com  
+- **Zyte Smart Proxy Manager** – https://zyte.com
+- **Thordata** - https://www.thordata.com  
+  Residential, ISP, mobile, and datacenter proxies for compliant public-web data collection, e-commerce research, SEO monitoring, market research, ad verification, and regional QA.
 
 ---
 
