@@ -99,6 +99,8 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   50+ enrichment sources in one API (or UI). Great for workflows.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
+- **Scalelist** – https://scalelist.com  
+  AI lead finder: one-sentence buyer description in, B2B contacts with verified work emails and mobile numbers out. REST API and MCP server.
 
 ---
 
