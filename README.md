@@ -240,6 +240,8 @@ Essential community nodes for B2B lead automation, ranked by monthly downloads.
 - **Official n8n Documentation** – https://docs.n8n.io  
 - **n8n Community Workflows** – https://n8n.io/workflows
 - **Installing Community Nodes** – https://docs.n8n.io/integrations/community-nodes/installation/  
+- **Khaisa Shop** – https://shop.khaisa.studio  
+  Ready-made n8n workflow kits (JSON plus setup notes) for lead generation, outreach and business ops, sold as digital downloads by Khaisa Studio.
 
 ---
 
