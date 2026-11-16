@@ -97,6 +97,8 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   Massive dataset for people + company attributes.
 - **Clay** – https://clay.com  
   50+ enrichment sources in one API (or UI). Great for workflows.
+- **Founder Email Finder** – https://founders.intropi.in  
+  Founder and owner names and likely emails from company websites, each marked published or guessed. Pay per use.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
 
