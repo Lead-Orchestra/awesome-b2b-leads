@@ -99,7 +99,7 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   50+ enrichment sources in one API (or UI). Great for workflows.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
-- **LeadSets** – https://www.leadsets.ai  
+- **Leadsets** – https://www.leadsets.ai  
   Unlimited B2B Contact Data for AI Agents, starting from $29/mo. People and company search, enrichment, and work-email verification.
 
 ---
