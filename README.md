@@ -109,7 +109,9 @@ Ensure deliverability & reduce bounce rates.
 - **NeverBounce** – https://neverbounce.com  
 - **ZeroBounce** – https://zerobounce.net  
 - **Kickbox** – https://kickbox.com  
-- **Hunter Verify** – https://hunter.io/email-verifier  
+- **Hunter Verify** – https://hunter.io/email-verifier
+- [FairValid](https://fairvalid.com) - Email verification through a hosted dashboard, API and MCP; account required.
+  
 
 ---
 
