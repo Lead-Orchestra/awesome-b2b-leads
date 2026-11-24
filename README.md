@@ -64,6 +64,16 @@ High-performance, scalable frameworks for scraping B2B data:
   Visual scraper for non-developers; supports JS-rendered sites.
 - **ParseHub** – https://parsehub.com  
   Good for static and semi-dynamic websites.
+- **Company Social Profile Finder (Public Records)** – https://apify.com/publicrecords/company-social-profile-finder  
+  Resolves a company website or name to LinkedIn, YouTube, Instagram and Facebook profile URLs.
+- **Ashby Jobs (Public Records)** – https://apify.com/publicrecords/ashby-jobs-scraper  
+  Public Ashby career-board job postings for company hiring-signal research.
+- **Greenhouse Jobs (Public Records)** – https://apify.com/publicrecords/greenhouse-jobs-scraper  
+  Public Greenhouse board job postings for company hiring-signal research.
+- **Lever Jobs (Public Records)** – https://apify.com/publicrecords/lever-jobs-scraper  
+  Public Lever board job postings for company hiring-signal research.
+- **SmartRecruiters Jobs (Public Records)** – https://apify.com/publicrecords/smartrecruiters-jobs-scraper  
+  Public SmartRecruiters board job postings for company hiring-signal research.
 
 ---
 
@@ -99,6 +109,10 @@ Turn raw scraped data into **sales-ready enriched profiles**.
   50+ enrichment sources in one API (or UI). Great for workflows.
 - **FullContact** – https://fullcontact.com  
   Person-level identity resolution & enrichment.
+- **Company Social Profile Finder (Public Records)** – https://apify.com/publicrecords/company-social-profile-finder  
+  Company website or name to public LinkedIn, YouTube, Instagram and Facebook profile URLs, with confidence and evidence.
+- **Google Ads Transparency (Public Records)** – https://apify.com/publicrecords/google-ads-transparency-scraper  
+  Advertiser creatives and transparency records as a B2B intent / competitive signal.
 
 ---
 
